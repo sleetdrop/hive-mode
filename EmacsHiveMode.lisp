@@ -31,7 +31,6 @@
 
   (setq font-lock-defaults '((hive-font-lock-keywords)))
   
-
   (setq hive-constants-regex nil)
   (setq hive-datatypes-regex nil)
   (setq hive-allkeywords-regex nil)
