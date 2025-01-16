@@ -1,6 +1,6 @@
 ;;; hive-mode --- A simple Hive mode for emacs derived from SQL mode.
 
-;; Copyright © Andrew N Golovkov <andrew.golovkov@gmail.com>
+;; Copyright © Vignesh Chandramohan
 
 ;; Author: Vignesh Chandramohan
 ;; Version: 0.0.1
