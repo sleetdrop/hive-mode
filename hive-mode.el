@@ -1,18 +1,12 @@
-;;; hive-mode --- A simple Hive mode for emacs derived from SQL mode.
-
-;; Copyright © Vignesh Chandramohan
-
+;;; hive-mode.el --- A simple Hive mode for emacs derived from SQL mode.
 ;; Author: Vignesh Chandramohan
-;; Version: 0.0.1
-;; Created: 2014
-;; Keywords: languages
-;; Homepage: https://github.com/vigneshc/EmacsHive/
+;; Maintainer: sleetdrop
+;; Version: 0.1
+;; Package-Requires: ((emacs "24.3"))
+;; Keywords: hive, sql
 
-;; This file is not part of GNU Emacs.
-
-;;; License:
-
-;; You can redistribute this program and/or modify it under the terms of the GNU General Public License version 2.
+;;; Commentary:
+;;  A simple Hive mode for emacs derived from SQL mode.
 
 ;;; Code:
 
