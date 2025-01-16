@@ -1,4 +1,21 @@
-;;A simple Hive mode for emacs derived from SQL mode.
+;;; hive-mode --- A simple Hive mode for emacs derived from SQL mode.
+
+;; Copyright © Andrew N Golovkov <andrew.golovkov@gmail.com>
+
+;; Author: Vignesh Chandramohan
+;; Version: 0.0.1
+;; Created: 2014
+;; Keywords: languages
+;; Homepage: https://github.com/vigneshc/EmacsHive/
+
+;; This file is not part of GNU Emacs.
+
+;;; License:
+
+;; You can redistribute this program and/or modify it under the terms of the GNU General Public License version 2.
+
+;;; Code:
+
 
 ;;Define regex for various classes of hive keywords
 (setq hive-constants '("null"))
